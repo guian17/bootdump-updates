@@ -1,0 +1,7 @@
+{
+  "versionCode": 19,
+  "versionName": "1.19",
+  "apkUrl": "https://raw.githubusercontent.com/guian17/bootdump-updates/main/bootdump.apk?v=19",
+  "sha256": "f62750f8d509ab20f6691e278c3d9c21fa76d5c492be13522ced82c05c732068",
+  "notes": "ui: ocultar estado de bootloader y dm-verity"
+}
